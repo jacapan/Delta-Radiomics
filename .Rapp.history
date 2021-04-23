@@ -1,0 +1,2 @@
+load("/Users/jan.peeken/Documents/GitHub/Delta-Radiomics/Delta-radiomics-model-T1FSGd.RDS")
+load("/Users/jan.peeken/Documents/GitHub/Delta-Radiomics/Delta-radiomics-model-combined.RDS")
